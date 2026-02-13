@@ -37,7 +37,7 @@ import AdminProducts from './pages/admin/Products';
 import AdminOrders from './pages/admin/Orders';
 import Analytics from './pages/admin/Analytics';
 
-// Loader
+// Loader is here
 import Loader from './components/common/Loader';
 
 /* ================= PROTECTED ROUTE ================= */
