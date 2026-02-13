@@ -34,7 +34,7 @@ import SellerOrders from './pages/seller/Orders';
 import AdminDashboard from './pages/admin/Dashboard';
 import AdminUsers from './pages/admin/Users';
 import AdminProducts from './pages/admin/Products';
-import AdminOrders from './pages/admin/Orders';
+import AdminOrders from './pages/admin/orders';
 import Analytics from './pages/admin/Analytics';
 
 // Loader is here
